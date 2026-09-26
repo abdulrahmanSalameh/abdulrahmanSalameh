@@ -16,7 +16,7 @@ I build projects to put my learning into practice and strengthen my programming 
 - **Web:** HTML, CSS, JavaScript
 - **Programming Languages:** C++, Java, Dart
 - **Mobile:** Flutter
-- **Firebase Services:** Firebase Authentication, Cloud Firestore
+- **Firebase Services:** Firebase Authentication, Cloud Firestore, Realtime Database
 - **Version Control:** Git, GitHub
 - **Development Tools:** VS Code, Visual Studio, Android Studio, Apache NetBeans
 
@@ -37,9 +37,9 @@ Orders are simulated; no payment processing is integrated.
 [Source Code](https://github.com/abdulrahmanSalameh/GameSphere)
 
 ### 🛍️ Fake Store API & Firebase CRUD
-A web training project that fetches and displays products from the Fake Store API. A separate product collection in Cloud Firestore supports adding, editing, and deleting products, with real-time updates displayed on the page.
+A web training project combining Fake Store API products with products stored in Firebase Realtime Database. Features include pagination, a separate add-product page, real-time database updates, editing, and soft deletion of database products.
 
-**Technologies:** HTML, CSS, JavaScript, REST API, Cloud Firestore  
+**Technologies:** HTML, CSS, JavaScript, REST API, Firebase Realtime Database  
 [Source Code](https://github.com/abdulrahmanSalameh/fakestoreapi)
 
 ## Connect With Me
